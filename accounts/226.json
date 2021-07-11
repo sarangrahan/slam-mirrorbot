@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "alien-airfoil-313108",
+  "private_key_id": "97cfcc702b9f820dcd1e5b2ef7fc3c21e4af4674",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC2NsogexS+ALLV\ni4bcJipvKeL6i2bE89ekpFqfl9cQc/2eTleqX4WwR+l9Vk0RhAGAW4iG9l1ltDT4\nzv1/Y1FirusPxKBDfVCo06W5w6bXpX0CQEAFvf/82nrKDRvE8lGb+EkyLNmysiIj\njDtyarRisiXCRZNj2InCcQIH7uY8AEneB4I3LReM4k4716MdBCqAEJ35mJABeNZr\nGSEKV5PA5boMnZUYBhbte1Y8mHgVJZOHrK7Kdx642HtfO22Lu6KZh8uMYtGec/c1\n3sXK0WnweHIkBHhTxyMXIuUn1oUflH1Lfo6IaqA/sglPQ3FAnwpPlaSHCusqy52y\nVp0di653AgMBAAECggEAD42HdpR64nYZANabFfE60wIH9tG6RADHCccVJlhY1sJh\nX5QZS7IOk7IRRHQyBnCcvjHrg9v4gETy9oyYbgY/Fp8oJWoay3GHvN+5eBMypQDi\nApsTiLBW7sq2C2DPqEf0qxon76mM+Js+BCG+mz2ilJmj7m9vRrXFzTwSUjU6hdyg\nvIMwx8/rF38oS+4coyFRlqVrPn84a7dpuIWUQ5sORhJbKUP5BIJcQU9bO02ehn1b\n/K7KwYSl9pjcm9iMYD/CVs2EFsRKlzItZER4C6xxAQlsu1+NsHmuETmIsbfL2tH+\nk1Qk5C8REYk5kFJAFTm9Rlc8BtNR4beCYFoVpUTezQKBgQDh0gDhZJPaiPM3wSFB\n+7ip/h9nd3Gc5SZedvlAMMACXfSfy+Zp2yAqR72VJUd+HjpUeIStU9EJD4/jMlOc\nQ6syOU5w6vY2AP6Gynts/szCEbLcpP9Tz8Qfg9/tpQgsTFurel6/Zd3RlybcAh14\n1gmpwrxegLLE76EESwkVP5OHRQKBgQDOkOHs+ochGTr14dK9rnhb8GcdkiAdwtjd\n8lEcrZkccbMKURVyyCLz18imF5MowgjbVlRhpT7g0Ln+PP0wOCVV3c/hvaXcWoVh\nHSkhNI7LujbPeY+j7kzl8Vfr3up76DiKZqFVnb1m3FEiYm69X1/2E4XjYKAtXAew\nzyAKklIMiwKBgQCcblSLzpeZwFrz2YbHZa/TmqV4kEaU0CyXLcWWUO8B9MIb3Cy+\nUbxjbZUH924iEKCJmX8XbsOUikI7ucYvrrSuMwKCuFFcsa2gBC4iIBQJsCb+MBJr\npbaPulPqFPOndDHghQGThuZ1ZUbXC2QNLAA/qBXDRVYRlIovJiehn4v8HQKBgBUA\nR+f3BJwJ26O6BNoCDfyS8XjhLWC5OaE/DJ4UzDdHHAPVgI+950fRTXYNeYmwSIQ8\nP7H5we3Las19V+R6INmdBpCV3nILxfm8pDzbAhWWZhIr8r2g8bKDGgRCEqbsUitI\nCekRc3sstRcA2O9p7fCvxXH7le1mqOWB+Wj5vVvHAoGBALZtSZQUgm66H4Q+CnYm\nqSmunp7wkhufBE+KzYCkLi8RHbDXMM4Vf5NpjUiPFGevEKiXGmBa7hwssux6ATRi\n3bMEpvxPnq2Xb7iaqWoxujeq0qDhBaYIJnYcyRX0uuNaHwZolmNjh04fKiBKGSsn\nvAJU7NVTGRzZkh1Og5lIk35D\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-swi3d0xyct9xb70yz-7b3u0055@alien-airfoil-313108.iam.gserviceaccount.com",
+  "client_id": "115321458321480715549",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-swi3d0xyct9xb70yz-7b3u0055%40alien-airfoil-313108.iam.gserviceaccount.com"
+}

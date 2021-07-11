@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "lyrical-cacao-319510",
+  "private_key_id": "c66cf200db9276724a32867e16ec72194bfcf9e3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCf7ydNw8YquLGP\nlDLcsRK72L1vxYdA2LMVax6T8cFvFCe77Wj6Tqc1kSKO1tSOSF4Xiy4M1sf6bmMd\nfP3nu4gWHeEeJnKoaeWXsHKS40xVots7m+50DMSyYFYAxJUyq21vTuavtFNzrnAc\nMqgVTKD14NFgnoUMBx8wV8WKSU74wa0jsklHsoJPMUREL8kDBf7LeEQ7YNRfeDu+\nLZmMgr5/dui/kvYQZsT3chC49UCvSoIg74vIeqyeXWZXlDAo0+LJIyRdutmPOM8s\nGm7QJ7ttnf7DN+9a8P5k7u7x/aNoDWDlP+kVfJpbobME/4pC0nIjdWSlCTpKBRVn\nNQumnYmjAgMBAAECggEAOf9qC2NRe7Cag2zEvQ9hsck5eUzybWuoFb5QymnDMdrn\nRdkkVpErRdup4o65aheIN5V7T6CbyI87Vjg7g0uYYBzZxCtBLR2p6sZL5kSTLALw\n6b70TBVNRzp0NbcUO9m6x8CfG1yTXsIFWdRs67xsKn4qr5UMvn3eq5NIyYsoHkDa\nOvy6htDmHRl/lNulZAhxeLA6gIJprE/FuRKZLCFPNPckypdQW3lq118E4C0uN0IJ\navMiLqWbfMUbshfJIn/8IYshyCMjNsYli7FyHyJ0fNi3SxuoSoZL3Px1lSKpFj1j\nFByyfI2jftOhc2sg8Eqax4U+/LwCCxl9rilGt+8o0QKBgQDhy3X5J9Aug4QMwZM+\n+y0D4A17G0TPTRP8qKwEbzsRAFfhQ7ZB2QGTKtVOuy/YnArVlzwusnr+vBsXAO8r\nW4MnL7ItZCqGHMcIU1Jm1ox7EtmwDg1OdjO+BstwMIoE2HS+tfsrl/ik9DGoKfEx\ny1FUseLrTNLGjPhhIAudBRjWFwKBgQC1VD1ftI+nxY//JhzOSJZUjKap1iQjw2tm\nAPjNCHxFspWmU3eXNePCLKz/s0CAToiMRt38W8evwQhf73qbsFPUCN8fkgm1V1QF\nmrnLAEHUMVj0jO9N8xSxHKozJIxvWYRpYVDy54dyt4YZjvro21dfuzUI7nIN5Bdc\nGssxIhGsVQKBgQCloSQW8peJpzuUR+MFTibFMvNwnJ4rGrVQn0IftqAzZncQbSUi\nxFadZ8w1BqagVEa2S0wATThf6AhPJYZL3cMlWZ1wIov2+OEfQE+v1C4Ukc1Rkd08\n8wQdnspYr6Juz4FD7CYk4kOobOCIJMwi5KvyXtLAHAh5UStZw7IBKp3/XQKBgAXc\nMReUuEfNxLeUPb4U7nbRDNnUR9q4CBKF2YSWz51ZBikX7Xd/kFrIItcord73qsYN\nzELJnIx7io+/J5E8g5kIqF1W1OV9awO7WmHLIlV/Osa8f0dfob2PlZiNh9RZakQV\nlw4imWgFslnFGyrHW+2GGVKukhUM2Axr+UEfPr75AoGBAJpquWIJ8v0+o579ljGw\nJHPYesZKtfjNVJO2h/5ofvavPr5UYH10rieFb0ga1UysrigwxSkGKeKwOzXemSMi\nrdeUhGuB4XN4ycQpMbLk7Qcb+ZMfAw9eGM/1ELztQsW+T1Db1scrx0rNgUrbDIu4\nkR3MnOg2fZzwU/U0DVJbKXeo\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-m5uyd7rlq1cec0w8jlw7jye5w8@lyrical-cacao-319510.iam.gserviceaccount.com",
+  "client_id": "109441320693657897105",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-m5uyd7rlq1cec0w8jlw7jye5w8%40lyrical-cacao-319510.iam.gserviceaccount.com"
+}
