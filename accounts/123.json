@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "atomic-climate-319510",
+  "private_key_id": "54dac1bca25873847a2467200f3b7654e4e2470d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC3CiV7yX6nhV7A\nzOAOfu6Abzy+7/c99jw3MLuC9L+fHpfnUVr0R0Fn4F7yFSceUw/N7HLm1qXQndzT\n4Pt5T27WxXIVXXoCwI4nq03tcbMZUuETF/TJoapxySD34f6FoALvE6hGhh7POsZy\npXgec1u0X2AwD2ATdiEMEFu/8goja4Eko+x+5LFGq6Rk72QJAfWwWOMr9c7sSUGu\nkUyDx9441MYDMUqzennnFIjEYdQex7Sz67Rg1hcNrfQY0iHzhj3tHetHZ3E5vScx\n8bxcZJOJIo4/X2BCGP79O8v0A5JQTh5lpYdHcquK3w8g/UuYpFPe6EZXeNW1I2CX\n0yOMii49AgMBAAECggEABWMITuATeOkpLHnrFyofqUp8ym7EA0ARrhsiTZyX3h43\noMBpcZp+P4kgKjY6qD8QDkKo8Ae9qgnXU6oBpKSUkcAOVzggzN9vX5YATV5lA7gH\ndTklhGCcZExjyr/NLpASvggBUhAE7Jrhd8LMafMBrimHamqtbG0z1EfP93JvX3Lw\nBC+NXTe3/YwSNt9I9xrd/uiEodSD22YmkO3ZHHa20m6wCNnGFvf9/1xY+k2WdZXb\nmCaGEkO9/yG8O90f/C342fABh3n7LUwirk3k8GTBDe/A3eBC/HuF3IlUbKuUYunv\n9R0JhHrSXPqS2XJBFGtPINXiOs0gsrMja3LQDXLbOQKBgQDbcvxf7j0EKueyiw9i\nZgycB6rDFd+EvwfI6wwuzdKdNQivo3bKFSh4exSAHK0L2i3MYC7wYozW6U5KBPUj\nB0vphvoFLODHYvb2JibiFX7bSuzmTOaMGvz8RM01eDRVWfTTAwk6yO68cHGlHJw3\nDKNIakdD9PQissEcNIjq5Pc31QKBgQDVhrUuKMiyrlKX1eSsaAQaWBQ4qUNs/wg0\nO2sYjzD6Hk72SCDYDeah+flJPZ1BKR4Uyj+KQFfh43BOctlmJSQPdWPHYRperXzD\nMCZnKcVfwRJ51wvo/e3gAQrQfGgARejj+6WsBfPxyMZMcv6gHvt/PfF3oDkLS+/n\n3VYItHX4yQKBgD5m+DUfPeKNgM1YlctZUYSc+YX4FlNdLw2HKTO1+4oQpqOrTAAy\n/AsmlLHJdbvFEvjm8PISVBJYzZZmyn5neMKzSy1lkZWhIrDkMHJhwm0BZVQn0fdN\nRVtHBUOLJvaOWfwXBOzebmTPZMGa3SEaSuQwtIsygKnNQvSOS9DfwxzxAoGBANUq\n9agOeUbA952zoOZptWbjddSXTsP626Lhiupq0ZdyOJxwp7FqN0yPtUpkI6EQvoI8\n4zBPSi0uFUmMKPNrstNn+2Pp0hyhEEQAxuYI8o3Ev4A5qx9AmoEeKUC4Yk+be4RX\nDy9shfxk12stBnyuUZ/XJECsCSb4+Zm+Aw0PtBLZAoGARHzWNSqy+IKxUBdfYVBT\nGSBOVVfInaGOD5Ee4vEPktVcIjMK2sB2mYIo/DJ0s0Pgh1SS3RXQHdNn8aZU3F92\nB6t6rIjNBKHJ1nivtp1oNuHyMhs6Xw/5tljQ6bpRdgJ4HDu7/HneOAoQii4iWOA1\n1fLqFMN2+N7Ergx6UpKIrlM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-jzi53nw35quoqq0ribw9u6k25e@atomic-climate-319510.iam.gserviceaccount.com",
+  "client_id": "106153672570406214577",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-jzi53nw35quoqq0ribw9u6k25e%40atomic-climate-319510.iam.gserviceaccount.com"
+}
